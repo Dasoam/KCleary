@@ -1,6 +1,6 @@
 
 
-# Project-KCLERY
+# KCLeary
 
 **Project-KCLERY** is a prototype AI assistant for Windows, designed to help automate everyday tasks using voice commands. It can search Google, open and close applications, play music, interact with the file explorer, and execute custom commands—all through a simple and intuitive interface.
 
